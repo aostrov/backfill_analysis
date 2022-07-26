@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CellCounter_Marker_File>
+ <Image_Properties>
+     <Image_Filename>6dpfv2w_PCP4a_backfill_E82_01_9dof.nrrd</Image_Filename>
+     <X_Calibration>0.2846160800944805</X_Calibration>
+     <Z_Calibration>0.5</Z_Calibration>
+     <Calibration_Unit>microns</Calibration_Unit>
+     <Y_Calibration>0.2846160800944805</Y_Calibration>
+ </Image_Properties>
+ <Marker_Data>
+     <Current_Type>3</Current_Type>
+     <Marker_Type>
+         <Type>1</Type>
+         <Name>Type 1</Name>
+         <Marker>
+             <MarkerX>516</MarkerX>
+             <MarkerY>797</MarkerY>
+             <MarkerZ>134</MarkerZ>
+         </Marker>
+     </Marker_Type>
+     <Marker_Type>
+         <Type>2</Type>
+         <Name>Type 2</Name>
+         <Marker>
+             <MarkerX>738</MarkerX>
+             <MarkerY>795</MarkerY>
+             <MarkerZ>134</MarkerZ>
+         </Marker>
+     </Marker_Type>
+     <Marker_Type>
+         <Type>3</Type>
+         <Name>Type 3</Name>
+         <Marker>
+             <MarkerX>453</MarkerX>
+             <MarkerY>931</MarkerY>
+             <MarkerZ>161</MarkerZ>
+         </Marker>
+     </Marker_Type>
+     <Marker_Type>
+         <Type>4</Type>
+         <Name>Type 4</Name>
+         <Marker>
+             <MarkerX>790</MarkerX>
+             <MarkerY>922</MarkerY>
+             <MarkerZ>161</MarkerZ>
+         </Marker>
+     </Marker_Type>
+     <Marker_Type>
+         <Type>5</Type>
+         <Name>Type 5</Name>
+     </Marker_Type>
+     <Marker_Type>
+         <Type>6</Type>
+         <Name>Type 6</Name>
+     </Marker_Type>
+ </Marker_Data>
+</CellCounter_Marker_File>
